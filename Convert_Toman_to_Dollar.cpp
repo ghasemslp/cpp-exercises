@@ -2,7 +2,6 @@
 #include <iostream>
 
 // کتابخانه برای پشتیبانی متن فارسی در ویندوز 
-#include <ostream>
 #include <windows.h>
 
 // کتابخانه standard برای ساده سازی استفاد از std
