@@ -6,7 +6,7 @@ int main(){
     cin >> call;
     cout << "Tedad Payamk Haie Ersal Shode Ra Vard Konid: ";
     cin >> sms;
-    ghabz = ((call / 60) * 20) + (sms * 2);
+    ghabz = (((call * 60) * 20)+(sms * 2)) *1000;
     cout << "Ghabz Shoma = " << ghabz;
     return 0;
     
